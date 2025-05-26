@@ -1,0 +1,12 @@
+game.characters
+game.gui
+game.inputs
+game.levels
+game.main
+game.obstacles
+game.pickups
+game.projectiles
+game.props
+game.sounds
+game.utils
+game.winobjects

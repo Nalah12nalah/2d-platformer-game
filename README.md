@@ -44,7 +44,7 @@ Jeddah, overcoming obstacles and enemies to find its way home.
 
 1. Clone this repository:
 
-2. git clone https://github.com/yourusername/cat-adventure.git
+2. git clone https://github.com/Nalah12nalah/2d-platformer-game.git
 
 3. In IntelliJ IDEA, add the City University Physics Engine as a Global Library.
 
